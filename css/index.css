@@ -963,6 +963,7 @@ padding-bottom: 40px;
     height: auto;
 }
 .blog-content{
+    padding-top: 7%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
